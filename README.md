@@ -10,3 +10,6 @@ Features:
 Quiz Generation: Create quizzes by adding true or false questions.
 User Interaction: Users can answer true or false questions interactively.
 Alerts with rflutter_alert: Utilizes the rflutter_alert package for displaying alerts in the app.
+
+![image](https://github.com/SolimanIslam/QuizApp/assets/136899518/97c44f48-e433-4b5d-bdab-1baddddcc5d0)
+
